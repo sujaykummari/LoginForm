@@ -1,7 +1,7 @@
-#preview:
+# Preview:
 
-
-https://github.com/sujaykummari/LoginForm/blob/main/LoginForm.mp4
+## Video
+![v1](https://github.com/sujaykummari/LoginForm/blob/main/LoginForm.mp4)
 
 # Getting Started with Create React App
 
