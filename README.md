@@ -1,5 +1,4 @@
 #preview:
-# This repo has a video on its readme :p
 
 
 https://github.com/sujaykummari/LoginForm/blob/main/LoginForm.mp4
