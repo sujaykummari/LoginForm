@@ -1,3 +1,9 @@
+#preview:
+# This repo has a video on its readme :p
+
+
+https://github.com/sujaykummari/LoginForm/blob/main/LoginForm.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
