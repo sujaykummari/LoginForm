@@ -1,6 +1,6 @@
 # Preview:
 
-##image
+
 
 <img width="1440" alt="to-do-list" src="https://github.com/sujaykummari/LoginForm/blob/main/LoginForm.png">
 
